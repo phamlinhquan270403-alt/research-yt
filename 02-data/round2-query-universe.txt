@@ -1,0 +1,39 @@
+# Candidate A — AI physical infrastructure
+how AI data centers work explained
+data center cooling system explained
+data center power infrastructure explained
+how GPU clusters work explained
+how AI inference hardware works explained
+semiconductor manufacturing explained animation
+why AI needs so much electricity explained
+how fiber network connects data centers explained
+
+# Candidate B — water and civic systems
+how municipal water systems work explained
+how water treatment plants work animation
+how wastewater treatment works explained
+how water towers work explained
+US water infrastructure explained
+how drinking water reaches homes explained
+how stormwater systems work explained
+why water mains break explained
+
+# Candidate C — business and economic mechanics
+how data centers make money explained
+how airlines make money explained
+how grocery stores make money explained
+how insurance companies make money explained
+why container shipping is expensive explained
+how electricity markets work explained
+how warehouse logistics makes money explained
+how credit card networks make money explained
+
+# Candidate D — engineered systems with a reusable 3D format
+how power transformers work 3d animation
+how jet engines work 3d animation
+how electric vehicle batteries work animation
+how HVAC systems work 3d animation
+how factories work animation explained
+how cranes work 3d animation
+how cargo ports work animation
+how electrical substations work animation

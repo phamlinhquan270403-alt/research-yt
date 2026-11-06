@@ -1,0 +1,8 @@
+﻿{
+    "snapshot_at":  "2026-11-01T18:35:40.1090182Z",
+    "query_count":  18,
+    "rows_before_dedupe":  180,
+    "unique_video_count":  173,
+    "unique_channel_count":  143,
+    "collection_error_count":  0
+}

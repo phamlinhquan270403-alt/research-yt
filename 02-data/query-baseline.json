@@ -1,0 +1,182 @@
+﻿[
+    {
+        "source_query":  "airports aviation explained",
+        "video_count":  10,
+        "median_vpd":  2322.86,
+        "p25_vpd":  1224.27,
+        "p75_vpd":  3014.63,
+        "min_vpd":  58.24,
+        "max_vpd":  4805.6,
+        "age_days_median":  312
+    },
+    {
+        "source_query":  "business economics explained",
+        "video_count":  10,
+        "median_vpd":  4060.46,
+        "p25_vpd":  2040.96,
+        "p75_vpd":  14080.35,
+        "min_vpd":  225.01,
+        "max_vpd":  85668.29,
+        "age_days_median":  432
+    },
+    {
+        "source_query":  "city urban planning explained",
+        "video_count":  10,
+        "median_vpd":  746.29,
+        "p25_vpd":  450.42,
+        "p75_vpd":  1262.7,
+        "min_vpd":  335.47,
+        "max_vpd":  3828.59,
+        "age_days_median":  440
+    },
+    {
+        "source_query":  "climate technology explained",
+        "video_count":  5,
+        "median_vpd":  10.24,
+        "p25_vpd":  0.31,
+        "p75_vpd":  447.33,
+        "min_vpd":  0.09,
+        "max_vpd":  5250.66,
+        "age_days_median":  1384
+    },
+    {
+        "source_query":  "cybersecurity internet explained",
+        "video_count":  6,
+        "median_vpd":  2483.16,
+        "p25_vpd":  750.08,
+        "p75_vpd":  3560.41,
+        "min_vpd":  368.18,
+        "max_vpd":  9815.58,
+        "age_days_median":  614
+    },
+    {
+        "source_query":  "data center AI chips explained",
+        "video_count":  6,
+        "median_vpd":  4155,
+        "p25_vpd":  1991.46,
+        "p75_vpd":  6130.38,
+        "min_vpd":  161.48,
+        "max_vpd":  35740.04,
+        "age_days_median":  214
+    },
+    {
+        "source_query":  "energy grid explained",
+        "video_count":  7,
+        "median_vpd":  1795.59,
+        "p25_vpd":  446.21,
+        "p75_vpd":  3602.8,
+        "min_vpd":  5.42,
+        "max_vpd":  9097.86,
+        "age_days_median":  881
+    },
+    {
+        "source_query":  "history animated map explained",
+        "video_count":  8,
+        "median_vpd":  608.52,
+        "p25_vpd":  80.46,
+        "p75_vpd":  660.78,
+        "min_vpd":  28.35,
+        "max_vpd":  1927.01,
+        "age_days_median":  1698
+    },
+    {
+        "source_query":  "housing costs explained",
+        "video_count":  8,
+        "median_vpd":  1264.56,
+        "p25_vpd":  796.41,
+        "p75_vpd":  3699.56,
+        "min_vpd":  246.43,
+        "max_vpd":  70718.59,
+        "age_days_median":  239
+    },
+    {
+        "source_query":  "how systems work animation explained",
+        "video_count":  6,
+        "median_vpd":  3045.04,
+        "p25_vpd":  1832.71,
+        "p75_vpd":  4639.72,
+        "min_vpd":  959.15,
+        "max_vpd":  14912.18,
+        "age_days_median":  1210
+    },
+    {
+        "source_query":  "logistics supply chain explained",
+        "video_count":  8,
+        "median_vpd":  187.13,
+        "p25_vpd":  109.66,
+        "p75_vpd":  473.64,
+        "min_vpd":  8.59,
+        "max_vpd":  783.65,
+        "age_days_median":  911
+    },
+    {
+        "source_query":  "manufacturing process explained",
+        "video_count":  5,
+        "median_vpd":  122.23,
+        "p25_vpd":  82.15,
+        "p75_vpd":  367.94,
+        "min_vpd":  28.44,
+        "max_vpd":  13212.41,
+        "age_days_median":  1918
+    },
+    {
+        "source_query":  "map data visualization explained",
+        "video_count":  5,
+        "median_vpd":  3.73,
+        "p25_vpd":  3.14,
+        "p75_vpd":  4.85,
+        "min_vpd":  1.31,
+        "max_vpd":  470.46,
+        "age_days_median":  1834
+    },
+    {
+        "source_query":  "personal finance animation explained",
+        "video_count":  4,
+        "median_vpd":  3041.88,
+        "p25_vpd":  502.6,
+        "p75_vpd":  6196.1,
+        "min_vpd":  151.15,
+        "max_vpd":  8392.32,
+        "age_days_median":  299
+    },
+    {
+        "source_query":  "science animation explained",
+        "video_count":  1,
+        "median_vpd":  8451.15,
+        "p25_vpd":  8451.15,
+        "p75_vpd":  8451.15,
+        "min_vpd":  8451.15,
+        "max_vpd":  8451.15,
+        "age_days_median":  3168
+    },
+    {
+        "source_query":  "space astronomy animation explained",
+        "video_count":  4,
+        "median_vpd":  10191.95,
+        "p25_vpd":  6053.13,
+        "p75_vpd":  13516.3,
+        "min_vpd":  1667.16,
+        "max_vpd":  15458.85,
+        "age_days_median":  991
+    },
+    {
+        "source_query":  "technology 3d animation explained",
+        "video_count":  3,
+        "median_vpd":  1800.49,
+        "p25_vpd":  1650.46,
+        "p75_vpd":  7018.5,
+        "min_vpd":  1500.42,
+        "max_vpd":  12236.52,
+        "age_days_median":  1922
+    },
+    {
+        "source_query":  "water system explained",
+        "video_count":  5,
+        "median_vpd":  2439.9,
+        "p25_vpd":  2097.24,
+        "p75_vpd":  2571.74,
+        "min_vpd":  762.28,
+        "max_vpd":  9790.84,
+        "age_days_median":  1880
+    }
+]

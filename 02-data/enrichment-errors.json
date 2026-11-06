@@ -1,0 +1,12 @@
+﻿[
+    {
+        "video_id":  "AHQGNb0zBgg",
+        "video_url":  "https://www.youtube.com/watch?v=AHQGNb0zBgg",
+        "error":  "ERROR: [youtube] AHQGNb0zBgg: This video is not available"
+    },
+    {
+        "video_id":  "nR-lsNDVhcY",
+        "video_url":  "https://www.youtube.com/watch?v=nR-lsNDVhcY",
+        "error":  "ERROR: [youtube] nR-lsNDVhcY: This video is not available"
+    }
+]

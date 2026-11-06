@@ -1,0 +1,38 @@
+﻿[
+    {
+        "candidate":  "3D engineered systems",
+        "sampled_videos":  17,
+        "unique_channels":  14,
+        "covered_queries":  8,
+        "vpd_status":  "Requires direct enrichment for published date and VPD",
+        "tutorial_course_share":  0,
+        "limit":  "ytsearch relevance-routed public sample. Direct enrichment is required for publish dates and VPD; not a keyword census, retention, RPM or US-audience share."
+    },
+    {
+        "candidate":  "AI compute infrastructure",
+        "sampled_videos":  25,
+        "unique_channels":  20,
+        "covered_queries":  8,
+        "vpd_status":  "Requires direct enrichment for published date and VPD",
+        "tutorial_course_share":  0.04,
+        "limit":  "ytsearch relevance-routed public sample. Direct enrichment is required for publish dates and VPD; not a keyword census, retention, RPM or US-audience share."
+    },
+    {
+        "candidate":  "Business mechanics",
+        "sampled_videos":  39,
+        "unique_channels":  32,
+        "covered_queries":  8,
+        "vpd_status":  "Requires direct enrichment for published date and VPD",
+        "tutorial_course_share":  0.051,
+        "limit":  "ytsearch relevance-routed public sample. Direct enrichment is required for publish dates and VPD; not a keyword census, retention, RPM or US-audience share."
+    },
+    {
+        "candidate":  "Water and civic systems",
+        "sampled_videos":  20,
+        "unique_channels":  15,
+        "covered_queries":  8,
+        "vpd_status":  "Requires direct enrichment for published date and VPD",
+        "tutorial_course_share":  0,
+        "limit":  "ytsearch relevance-routed public sample. Direct enrichment is required for publish dates and VPD; not a keyword census, retention, RPM or US-audience share."
+    }
+]
